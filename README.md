@@ -22,6 +22,7 @@ I'm Felipe, an IT enthusiast, dedicated student of
 * Data Science
 * as well as other related areas, such as AI and quantum computing.
 
+https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white
 
  
  
