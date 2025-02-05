@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Felipe, an IT enthusiast, dedicated student of Hardware, Networks, Programming, Cyber ​​Security and Data Science - as well as other related areas, such as AI and quantum computing.
+I'm Felipe, an IT enthusiast, dedicated student of 
+* Hardware
+* Networks
+* Programming
+* Cyber ​​Security
+* Data Science
+* as well as other related areas, such as AI and quantum computing.
 
 
  
