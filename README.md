@@ -26,6 +26,6 @@ I'm Felipe, an IT enthusiast, dedicated student of
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-red?style=for-the-badge&logo=spy&logoColor=white)
-![Hacking](https://img.shields.io/badge/Hacking-black?style=for-the-badge&logo=skull&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-blueviolet?style=for-the-badge&logo=google-analytics&logoColor=white)
-![IA](https://img.shields.io/badge/IA-indigo?style=for-the-badge&logo=ai&logoColor=white)
+![Hacking](https://img.shields.io/badge/Hacking-black?style=for-the-badge&logo=jolly-roger&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-green?style=for-the-badge&logo=google-analytics&logoColor=white)
+![IA](https://img.shields.io/badge/IA-gray?style=for-the-badge&logo=ai&logoColor=white)
