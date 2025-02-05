@@ -1,4 +1,4 @@
-## Saudações! 👋
+## Greetings! 👋
 
 <!--
 **JungFelipe/JungFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Meu nome é Felipe Jung, sou um entusiasta de TI, aficionado por Hardware, Programação, Cyber Security e Ciência de Dados.
+I'm Felipe, an IT enthusiast, dedicated student of Hardware, Networks, Programming, Cyber ​​Security and Data Science - as well as other related areas, such as AI and quantum computing.
