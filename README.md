@@ -23,5 +23,6 @@ I'm Felipe, an IT enthusiast, dedicated student of
 * as well as other related areas, such as AI and quantum computing.
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-red?style=for-the-badge&logo=spy&logoColor=white)
  
  
